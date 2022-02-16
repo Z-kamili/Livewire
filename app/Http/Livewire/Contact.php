@@ -11,6 +11,7 @@ class Contact extends Component
     public $last_name;
     public $password;
     public $message;
+    public $success_message;
 
     public function render()
     {
